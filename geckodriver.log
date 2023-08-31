@@ -1,0 +1,201 @@
+1693171569085	geckodriver	INFO	Listening on 127.0.0.1:64376
+1693171572127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bryan\\AppData\\Local\\Temp\\rust_mozprofilePXl7qA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693171572286	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693171572321	Marionette	INFO	Listening on port 64398
+WebDriver BiDi listening on ws://127.0.0.1:64377
+Read port: 64398
+1693171572447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64377/devtools/browser/836bab2f-7859-454e-8d53-77e77cfed9d7
+[Parent 5524, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2424, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693175621614	Marionette	INFO	Stopped listening on port 64398
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[Parent 5524, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2424, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 5524, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2424, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 5524, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2424, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 5524, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2424, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 5524, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2424, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 5524, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2424, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693175833685	geckodriver	INFO	Listening on 127.0.0.1:56355
+1693175836721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56356" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bryan\\AppData\\Local\\Temp\\rust_mozprofile37XaAa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693175836888	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693175836923	Marionette	INFO	Listening on port 56374
+WebDriver BiDi listening on ws://127.0.0.1:56356
+Read port: 56374
+1693175837045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56356/devtools/browser/d7ef3f16-f7f7-4b63-a8fb-0493fdb1e04c
+1693175921886	Marionette	INFO	Stopped listening on port 56374
+Dynamically enable window occlusion 1
+[Parent 28512, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 27032, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 28512, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 27032, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 28512, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 27032, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 28512, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 27032, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+e 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 30284, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6376, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 30284, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6376, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 30284, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6376, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 30284, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693175965751	geckodriver	INFO	Listening on 127.0.0.1:57270
+1693175968758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bryan\\AppData\\Local\\Temp\\rust_mozprofileV5ZFQ6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693175968915	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693175968952	Marionette	INFO	Listening on port 57295
+WebDriver BiDi listening on ws://127.0.0.1:57271
+Read port: 57295
+1693175969074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57271/devtools/browser/36399fa2-2a2c-43df-bc1d-263379bbd4f4
+[Parent 12840, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18676, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693263647178	Marionette	INFO	Stopped listening on port 57295
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[Parent 12840, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18676, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 12840, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18676, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 12840, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18676, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 12840, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18676, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 12840, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18676, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693430196448	geckodriver	INFO	Listening on 127.0.0.1:65076
+1693430199487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bryan\\AppData\\Local\\Temp\\rust_mozprofileBZrcXn"
+1693430199616	geckodriver	INFO	Listening on 127.0.0.1:65093
+1693430202660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65094" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bryan\\AppData\\Local\\Temp\\rust_mozprofilezVNdav"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693430202929	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693430202993	Marionette	INFO	Listening on port 65114
+Read port: 65114
+WebDriver BiDi listening on ws://127.0.0.1:65094
+1693430203045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65094/devtools/browser/0201c587-ecd8-49b2-81df-70de9b396ea4
+[Parent 26924, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 26924, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 26924, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 26924, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+1693430258786	geckodriver	INFO	Listening on 127.0.0.1:65476
+1693430261836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bryan\\AppData\\Local\\Temp\\rust_mozprofileg9I56T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693430262002	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693430262040	Marionette	INFO	Listening on port 65497
+WebDriver BiDi listening on ws://127.0.0.1:65477
+Read port: 65497
+1693430262165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65477/devtools/browser/1f3d6f84-c8c3-4e05-a4ef-e3e14503348a
+1693432953178	Marionette	INFO	Stopped listening on port 65497
+Dynamically enable window occlusion 1
+1693441355659	geckodriver	INFO	Listening on 127.0.0.1:64124
+1693441358680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64125" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bryan\\AppData\\Local\\Temp\\rust_mozprofileZLcQ5s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693441358855	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693441358892	Marionette	INFO	Listening on port 64133
+WebDriver BiDi listening on ws://127.0.0.1:64125
+Read port: 64133
+1693441359020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64125/devtools/browser/2e8e5b68-0ada-4469-bedb-aa45d3e656e2
+1693441362198	Marionette	INFO	Stopped listening on port 64133
+JavaScript warning: https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=co6hWhAJvOJ-l_xH_UMY4Yr7Jyfq4vckGvyBqJp6259erUq7ywKLMIRbMZwbnpy9CLB9hqvGQ8g5I4vBAt-4JQtrcyddNthsuseB8QNEkBo, line 3628: Script terminated by timeout at:
+CalculateNewProcessedItemsBySelector@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=co6hWhAJvOJ-l_xH_UMY4Yr7Jyfq4vckGvyBqJp6259erUq7ywKLMIRbMZwbnpy9CLB9hqvGQ8g5I4vBAt-4JQtrcyddNthsuseB8QNEkBo:3628:29
+DeferredProcessCssRules@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=co6hWhAJvOJ-l_xH_UMY4Yr7Jyfq4vckGvyBqJp6259erUq7ywKLMIRbMZwbnpy9CLB9hqvGQ8g5I4vBAt-4JQtrcyddNthsuseB8QNEkBo:3642:36
+GetDeferredHandlerImpl@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=co6hWhAJvOJ-l_xH_UMY4Yr7Jyfq4vckGvyBqJp6259erUq7ywKLMIRbMZwbnpy9CLB9hqvGQ8g5I4vBAt-4JQtrcyddNthsuseB8QNEkBo:3652:79
+TimerCallback@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=co6hWhAJvOJ-l_xH_UMY4Yr7Jyfq4vckGvyBqJp6259erUq7ywKLMIRbMZwbnpy9CLB9hqvGQ8g5I4vBAt-4JQtrcyddNthsuseB8QNEkBo:329:21
+
+Dynamically enable window occlusion 1
+1693441527612	geckodriver	INFO	Listening on 127.0.0.1:64254
+1693441530657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64255" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bryan\\AppData\\Local\\Temp\\rust_mozprofilezgq5HH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693441530820	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693441530856	Marionette	INFO	Listening on port 64263
+WebDriver BiDi listening on ws://127.0.0.1:64255
+Read port: 64263
+1693441530979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64255/devtools/browser/01643c4c-5d2e-43a4-8c5d-aa89e1cdb824
+1693441533949	Marionette	INFO	Stopped listening on port 64263
+JavaScript warning: https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=L4hOGfcFH7zik7I_Q3YZYdnwiP3nf6XlFPCXZY1MLdaWlXExOSQ4wZiQXpAS4lzgDxiv8XHPJ9A1lRN3cZOBoIq6FbiD2V876Xw1GhMh59M, line 3628: Script terminated by timeout at:
+CalculateNewProcessedItemsBySelector@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=L4hOGfcFH7zik7I_Q3YZYdnwiP3nf6XlFPCXZY1MLdaWlXExOSQ4wZiQXpAS4lzgDxiv8XHPJ9A1lRN3cZOBoIq6FbiD2V876Xw1GhMh59M:3628:29
+DeferredProcessCssRules@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=L4hOGfcFH7zik7I_Q3YZYdnwiP3nf6XlFPCXZY1MLdaWlXExOSQ4wZiQXpAS4lzgDxiv8XHPJ9A1lRN3cZOBoIq6FbiD2V876Xw1GhMh59M:3642:36
+GetDeferredHandlerImpl@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=L4hOGfcFH7zik7I_Q3YZYdnwiP3nf6XlFPCXZY1MLdaWlXExOSQ4wZiQXpAS4lzgDxiv8XHPJ9A1lRN3cZOBoIq6FbiD2V876Xw1GhMh59M:3652:79
+TimerCallback@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=L4hOGfcFH7zik7I_Q3YZYdnwiP3nf6XlFPCXZY1MLdaWlXExOSQ4wZiQXpAS4lzgDxiv8XHPJ9A1lRN3cZOBoIq6FbiD2V876Xw1GhMh59M:329:21
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693441547601	geckodriver	INFO	Listening on 127.0.0.1:64333
+1693441550642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64334" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bryan\\AppData\\Local\\Temp\\rust_mozprofileK6Po1V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693441550805	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693441550841	Marionette	INFO	Listening on port 64342
+WebDriver BiDi listening on ws://127.0.0.1:64334
+Read port: 64342
+1693441550961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64334/devtools/browser/4cdba6f9-6f3e-4982-918c-593c6a25c862
+1693441554084	Marionette	INFO	Stopped listening on port 64342
+JavaScript warning: https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=JAOkkE_GxYw-wHoPlcHDl7A0wEqKlYAIJJrgDzqdUZ6ntxmZSoArnhMJdzUAfEvPJas4jqqJtx3xqM4Fxo4-_5y-eYZfIO-61VIGjF1_lqU, line 3628: Script terminated by timeout at:
+CalculateNewProcessedItemsBySelector@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=JAOkkE_GxYw-wHoPlcHDl7A0wEqKlYAIJJrgDzqdUZ6ntxmZSoArnhMJdzUAfEvPJas4jqqJtx3xqM4Fxo4-_5y-eYZfIO-61VIGjF1_lqU:3628:29
+DeferredProcessCssRules@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=JAOkkE_GxYw-wHoPlcHDl7A0wEqKlYAIJJrgDzqdUZ6ntxmZSoArnhMJdzUAfEvPJas4jqqJtx3xqM4Fxo4-_5y-eYZfIO-61VIGjF1_lqU:3642:36
+GetDeferredHandlerImpl@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=JAOkkE_GxYw-wHoPlcHDl7A0wEqKlYAIJJrgDzqdUZ6ntxmZSoArnhMJdzUAfEvPJas4jqqJtx3xqM4Fxo4-_5y-eYZfIO-61VIGjF1_lqU:3652:79
+TimerCallback@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=JAOkkE_GxYw-wHoPlcHDl7A0wEqKlYAIJJrgDzqdUZ6ntxmZSoArnhMJdzUAfEvPJas4jqqJtx3xqM4Fxo4-_5y-eYZfIO-61VIGjF1_lqU:329:21
+
+Dynamically enable window occlusion 1
+1693441775916	geckodriver	INFO	Listening on 127.0.0.1:64464
+1693441778991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bryan\\AppData\\Local\\Temp\\rust_mozprofiletBr2NZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693441779150	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693441779193	Marionette	INFO	Listening on port 64473
+WebDriver BiDi listening on ws://127.0.0.1:64465
+Read port: 64473
+1693441779315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64465/devtools/browser/dd203e93-8489-461a-9fa0-fb81a7a04ae6
+1693441898542	geckodriver	INFO	Listening on 127.0.0.1:64542
+1693441901595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bryan\\AppData\\Local\\Temp\\rust_mozprofile4O1DcG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693441901759	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693441901795	Marionette	INFO	Listening on port 64551
+WebDriver BiDi listening on ws://127.0.0.1:64543
+Read port: 64551
+1693441901924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64543/devtools/browser/0f8522c5-fb0b-402a-8a89-5dd2776a3172
+1693441905113	Marionette	INFO	Stopped listening on port 64551
+JavaScript warning: https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=LyzZBW9hEavl1UD1QPBKoll73KHLSr_eFFW2YlQSkbs35jMldazBX9VKmqF1MWe1eNvO_M8OOi22pyruivTVtt2cPfh_q2Q_bQ5UUKPyi0E, line 3628: Script terminated by timeout at:
+CalculateNewProcessedItemsBySelector@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=LyzZBW9hEavl1UD1QPBKoll73KHLSr_eFFW2YlQSkbs35jMldazBX9VKmqF1MWe1eNvO_M8OOi22pyruivTVtt2cPfh_q2Q_bQ5UUKPyi0E:3628:29
+DeferredProcessCssRules@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=LyzZBW9hEavl1UD1QPBKoll73KHLSr_eFFW2YlQSkbs35jMldazBX9VKmqF1MWe1eNvO_M8OOi22pyruivTVtt2cPfh_q2Q_bQ5UUKPyi0E:3642:36
+GetDeferredHandlerImpl@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=LyzZBW9hEavl1UD1QPBKoll73KHLSr_eFFW2YlQSkbs35jMldazBX9VKmqF1MWe1eNvO_M8OOi22pyruivTVtt2cPfh_q2Q_bQ5UUKPyi0E:3652:79
+TimerCallback@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=LyzZBW9hEavl1UD1QPBKoll73KHLSr_eFFW2YlQSkbs35jMldazBX9VKmqF1MWe1eNvO_M8OOi22pyruivTVtt2cPfh_q2Q_bQ5UUKPyi0E:329:21
+
+Dynamically enable window occlusion 1
